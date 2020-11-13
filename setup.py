@@ -1,21 +1,14 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 13 15:34:54 2020
-
-@author: ashish
-"""
-
 from distutils.core import setup
 setup(
-  name = 'Topsis_Ashish_101816004',         # How you named your package folder (MyLib)
-  packages = ['Topsis_Ashish_101816004'],   # Chose the same as "name"
+  name = 'Topsis-ArjunMalik-101816029',         # How you named your package folder (MyLib)
+  packages = ['Topsis-ArjunMalik-101816029'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This library helps in implementing topsis method',   # Give a short description about your library
-  author = 'Ashish Kumar Yadav',                   # Type in your name
-  author_email = 'ayadav3_be18@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/blackdog1520/Topsis_Ashish_101816004',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/blackdog1520/Topsis_Ashish_101816004/archive/0.1.tar.gz',    # I explain this later on
+  author = 'Arjun Malik',                   # Type in your name
+  author_email = 'amalik_be18@thapar.edu',      # Type in your E-Mail
+  url = 'https://github.com/ARJUN-MALIK/Topsis-ArjunMalik-101816029',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/Topsis-ArjunMalik-101816029/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['SIMPLE', 'TOPSIS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'os',
